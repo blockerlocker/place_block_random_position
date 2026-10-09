@@ -1,6 +1,7 @@
 {
     "values": [
         "iris:setup/load",
-        "when_block_placed:load"
+        "when_block_placed:load",
+        "place_block_random_position:load"
     ]
 }

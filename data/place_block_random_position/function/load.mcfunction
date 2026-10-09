@@ -1,0 +1,1 @@
+execute unless data storage place_block_random_position:settings radius run data merge storage place_block_random_position:settings {radius:3}
