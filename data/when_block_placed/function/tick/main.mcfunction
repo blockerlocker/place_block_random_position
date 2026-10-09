@@ -1,0 +1,2 @@
+execute as @a at @s anchored eyes positioned ^ ^ ^ run function when_block_placed:tick/player
+execute as @e[type=marker,tag=place_block_random_position_particle_emitter] at @s run function when_block_placed:tick/particle_emitter with entity @s data.coords

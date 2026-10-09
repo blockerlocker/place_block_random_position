@@ -1,0 +1,1 @@
+$execute positioned $(random_x) $(y) $(random_z) run function place_block_random_position:roll/crawl_loop with storage place_block_random_position:temp all
